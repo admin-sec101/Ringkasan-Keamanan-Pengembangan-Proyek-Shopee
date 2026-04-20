@@ -1,6 +1,6 @@
 <img width="687" height="377" alt="image" src="https://github.com/user-attachments/assets/2ea41ec3-a9f1-4cd4-abbc-1f9823125836" />
 
-
+*** ***
 IDOR (Insecure Direct Object Reference) yang ia temukan di subdomain Shopee. Temuan ini sangat kritis karena memungkinkan seseorang untuk menghapus proyek milik orang lain hanya dengan memanipulasi parameter tertentu. 
 
 Berikut adalah poin-poin penting dari temuan tersebut:
