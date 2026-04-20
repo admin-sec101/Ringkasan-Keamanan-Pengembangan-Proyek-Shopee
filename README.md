@@ -15,6 +15,10 @@ Melakukan validasi izin di sisi server sebelum melakukan operasi penghapusan ata
 Menggunakan pengidentifikasi yang sulit ditebak (seperti UUID) daripada angka berurutan
 
 ```
+https://johnfiel0x3a.medium.com/potential-account-takeover-thru-stored-xss-on-shopee-e75def012000
+
+
+
 https://socket.dev/npm/package/%40congminh1254%2Fshopee-sdk
 
 https://github.com/congminh1254/shopee-sdk
